@@ -1,2 +1,2 @@
-# FP18-19
-Fundamentos de Programação
+# FP18-19 - Foundations of Programming
+Two projects in Python
